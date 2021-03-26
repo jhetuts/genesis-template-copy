@@ -1,0 +1,8 @@
+{
+	"name": "Genesis",
+	"description": "A very simple, efficient and minimalist style of venue, Genesis is ideal for 1-day multi-track conferences, seminars or meetings, with breakouts as options.",
+	"version": "1.0.0",
+	"author": "GSI",
+	"keyword": "1-Day, Multi-Track, Conference, Seminar, Meeting, Breakout",
+	"features": "- 1. 7 templates 2. Sticky menu 3. Live stream 4. Chat 5. Direct message 6. Participants list 7. Speakers and agenda 8. Content blocks 9. Notifications 10. Responsive template 11. Light and dark mode - 7 Templates: 1. Lobby 2. Main session 3. Breakout 4. Speakers 5. About 6. Login 7. 404"	
+}
